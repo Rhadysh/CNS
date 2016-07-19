@@ -20,7 +20,7 @@ Material:
           name: _MainTex
         second:
           m_Texture: {fileID: 0}
-          m_Scale: {x: 300, y: 300}
+          m_Scale: {x: 275, y: 275}
           m_Offset: {x: 0, y: 0}
       data:
         first:
@@ -55,7 +55,7 @@ Material:
           name: _EmissionMap
         second:
           m_Texture: {fileID: 0}
-          m_Scale: {x: 300, y: 300}
+          m_Scale: {x: 275, y: 275}
           m_Offset: {x: 0, y: 0}
       data:
         first:
@@ -102,11 +102,11 @@ Material:
       data:
         first:
           name: _Glossiness
-        second: 0.5
+        second: 1
       data:
         first:
           name: _BumpScale
-        second: 0.2
+        second: 0.3
       data:
         first:
           name: _OcclusionStrength

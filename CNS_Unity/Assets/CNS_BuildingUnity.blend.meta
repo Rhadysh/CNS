@@ -294,6 +294,19 @@ ModelImporter:
     100572: WallsFrontOutcropping
     100574: WaterFountain
     100576: WaterFountain_001
+    100578: ExitSignLeftArrow_002
+    100580: ExitSignLeftArrow_003
+    100582: FireExtinguisher_001
+    100584: FireExtinguisher_002
+    100586: FireExtinguisher_003
+    100588: FireExtinguisher_004
+    100590: Cube
+    100592: Cube_001
+    100594: Cube_002
+    100596: Cube_003
+    100598: Cube_004
+    100600: WaterFountain_002
+    100602: Shower
     400000: 100ADoor
     400002: 100ADoorFrame
     400004: 100BDoorA
@@ -583,6 +596,19 @@ ModelImporter:
     400572: WallsFrontOutcropping
     400574: WaterFountain
     400576: WaterFountain_001
+    400578: ExitSignLeftArrow_002
+    400580: ExitSignLeftArrow_003
+    400582: FireExtinguisher_001
+    400584: FireExtinguisher_002
+    400586: FireExtinguisher_003
+    400588: FireExtinguisher_004
+    400590: Cube
+    400592: Cube_001
+    400594: Cube_002
+    400596: Cube_003
+    400598: Cube_004
+    400600: WaterFountain_002
+    400602: Shower
     2300000: 100ADoor
     2300002: 100ADoorFrame
     2300004: 100BDoorA
@@ -871,6 +897,19 @@ ModelImporter:
     2300570: WallsFrontOutcropping
     2300572: WaterFountain
     2300574: WaterFountain_001
+    2300576: ExitSignLeftArrow_002
+    2300578: ExitSignLeftArrow_003
+    2300580: FireExtinguisher_001
+    2300582: FireExtinguisher_002
+    2300584: FireExtinguisher_003
+    2300586: FireExtinguisher_004
+    2300588: Cube
+    2300590: Cube_001
+    2300592: Cube_002
+    2300594: Cube_003
+    2300596: Cube_004
+    2300598: WaterFountain_002
+    2300600: Shower
     3300000: 100ADoor
     3300002: 100ADoorFrame
     3300004: 100BDoorA
@@ -1159,6 +1198,19 @@ ModelImporter:
     3300570: WallsFrontOutcropping
     3300572: WaterFountain
     3300574: WaterFountain_001
+    3300576: ExitSignLeftArrow_002
+    3300578: ExitSignLeftArrow_003
+    3300580: FireExtinguisher_001
+    3300582: FireExtinguisher_002
+    3300584: FireExtinguisher_003
+    3300586: FireExtinguisher_004
+    3300588: Cube
+    3300590: Cube_001
+    3300592: Cube_002
+    3300594: Cube_003
+    3300596: Cube_004
+    3300598: WaterFountain_002
+    3300600: Shower
     4300000: Walls_005
     4300002: Walls_004
     4300004: Walls_003
@@ -1447,6 +1499,19 @@ ModelImporter:
     4300570: 103Outer_Door_Handle
     4300572: WallsFront
     4300574: WallsFrontOutcropping
+    4300576: FireExtinguisher_004
+    4300578: ExitSignLeftArrow_003
+    4300580: ExitSignLeftArrow_002
+    4300582: FireExtinguisher_003
+    4300584: FireExtinguisher_002
+    4300586: FireExtinguisher_001
+    4300588: Cube
+    4300590: Cube_002
+    4300592: Cube_004
+    4300594: Cube_003
+    4300596: Cube_001
+    4300598: WaterFountain_002
+    4300600: Shower
     7400000: Default Take
     9500000: //RootNode
   materials:
