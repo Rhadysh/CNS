@@ -338,6 +338,7 @@ ModelImporter:
     100660: Cube_010
     100662: ShowerBottomBox
     100664: ShowerBottomHandles
+    100666: Plane
     400000: 100ADoor
     400002: 100ADoorFrame
     400004: 100BDoorA
@@ -671,6 +672,7 @@ ModelImporter:
     400660: Cube_010
     400662: ShowerBottomBox
     400664: ShowerBottomHandles
+    400666: Plane
     2300000: 100ADoor
     2300002: 100ADoorFrame
     2300004: 100BDoorA
@@ -1003,6 +1005,7 @@ ModelImporter:
     2300658: Cube_010
     2300660: ShowerBottomBox
     2300662: ShowerBottomHandles
+    2300664: Plane
     3300000: 100ADoor
     3300002: 100ADoorFrame
     3300004: 100BDoorA
@@ -1335,6 +1338,7 @@ ModelImporter:
     3300658: Cube_010
     3300660: ShowerBottomBox
     3300662: ShowerBottomHandles
+    3300664: Plane
     4300000: Walls_005
     4300002: Walls_004
     4300004: Walls_003
@@ -1667,6 +1671,7 @@ ModelImporter:
     4300658: Cube_006
     4300660: ShowerBottomBox
     4300662: ShowerBottomHandles
+    4300664: Plane
     7400000: Default Take
     9500000: //RootNode
   materials:
