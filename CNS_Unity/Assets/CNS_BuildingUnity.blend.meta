@@ -307,6 +307,37 @@ ModelImporter:
     100598: Cube_004
     100600: WaterFountain_002
     100602: Shower
+    100604: BezierCurve
+    100606: Chair
+    100608: Chair_001
+    100610: Chair_002
+    100612: Chair_003
+    100614: Chair_004
+    100616: ChairArms
+    100618: ChairArms_001
+    100620: ChairArms_002
+    100622: ChairArms_003
+    100624: ChairArms_004
+    100626: Cube_005
+    100628: Cube_007
+    100630: Cylinder_002
+    100632: TableLegs
+    100634: TableLegs_001
+    100636: TableTop
+    100638: TableTop_001
+    100640: Railings_001
+    100642: StairCylinder_001
+    100644: RailingsFrontBar
+    100646: Shower_001
+    100648: Shower_002
+    100650: Shower_003
+    100652: StairCylinderRailings
+    100654: Cube_006
+    100656: Cube_008
+    100658: Cube_009
+    100660: Cube_010
+    100662: ShowerBottomBox
+    100664: ShowerBottomHandles
     400000: 100ADoor
     400002: 100ADoorFrame
     400004: 100BDoorA
@@ -609,6 +640,37 @@ ModelImporter:
     400598: Cube_004
     400600: WaterFountain_002
     400602: Shower
+    400604: BezierCurve
+    400606: Chair
+    400608: Chair_001
+    400610: Chair_002
+    400612: Chair_003
+    400614: Chair_004
+    400616: ChairArms
+    400618: ChairArms_001
+    400620: ChairArms_002
+    400622: ChairArms_003
+    400624: ChairArms_004
+    400626: Cube_005
+    400628: Cube_007
+    400630: Cylinder_002
+    400632: TableLegs
+    400634: TableLegs_001
+    400636: TableTop
+    400638: TableTop_001
+    400640: Railings_001
+    400642: StairCylinder_001
+    400644: RailingsFrontBar
+    400646: Shower_001
+    400648: Shower_002
+    400650: Shower_003
+    400652: StairCylinderRailings
+    400654: Cube_006
+    400656: Cube_008
+    400658: Cube_009
+    400660: Cube_010
+    400662: ShowerBottomBox
+    400664: ShowerBottomHandles
     2300000: 100ADoor
     2300002: 100ADoorFrame
     2300004: 100BDoorA
@@ -910,6 +972,37 @@ ModelImporter:
     2300596: Cube_004
     2300598: WaterFountain_002
     2300600: Shower
+    2300602: BezierCurve
+    2300604: Chair
+    2300606: Chair_001
+    2300608: Chair_002
+    2300610: Chair_003
+    2300612: Chair_004
+    2300614: ChairArms
+    2300616: ChairArms_001
+    2300618: ChairArms_002
+    2300620: ChairArms_003
+    2300622: ChairArms_004
+    2300624: Cube_005
+    2300626: Cube_007
+    2300628: Cylinder_002
+    2300630: TableLegs
+    2300632: TableLegs_001
+    2300634: TableTop
+    2300636: TableTop_001
+    2300638: Railings_001
+    2300640: StairCylinder_001
+    2300642: RailingsFrontBar
+    2300644: Shower_001
+    2300646: Shower_002
+    2300648: Shower_003
+    2300650: StairCylinderRailings
+    2300652: Cube_006
+    2300654: Cube_008
+    2300656: Cube_009
+    2300658: Cube_010
+    2300660: ShowerBottomBox
+    2300662: ShowerBottomHandles
     3300000: 100ADoor
     3300002: 100ADoorFrame
     3300004: 100BDoorA
@@ -1211,6 +1304,37 @@ ModelImporter:
     3300596: Cube_004
     3300598: WaterFountain_002
     3300600: Shower
+    3300602: BezierCurve
+    3300604: Chair
+    3300606: Chair_001
+    3300608: Chair_002
+    3300610: Chair_003
+    3300612: Chair_004
+    3300614: ChairArms
+    3300616: ChairArms_001
+    3300618: ChairArms_002
+    3300620: ChairArms_003
+    3300622: ChairArms_004
+    3300624: Cube_005
+    3300626: Cube_007
+    3300628: Cylinder_002
+    3300630: TableLegs
+    3300632: TableLegs_001
+    3300634: TableTop
+    3300636: TableTop_001
+    3300638: Railings_001
+    3300640: StairCylinder_001
+    3300642: RailingsFrontBar
+    3300644: Shower_001
+    3300646: Shower_002
+    3300648: Shower_003
+    3300650: StairCylinderRailings
+    3300652: Cube_006
+    3300654: Cube_008
+    3300656: Cube_009
+    3300658: Cube_010
+    3300660: ShowerBottomBox
+    3300662: ShowerBottomHandles
     4300000: Walls_005
     4300002: Walls_004
     4300004: Walls_003
@@ -1512,6 +1636,37 @@ ModelImporter:
     4300596: Cube_001
     4300598: WaterFountain_002
     4300600: Shower
+    4300602: Cube_005
+    4300604: TableTop_001
+    4300606: TableLegs_001
+    4300608: Chair_004
+    4300610: ChairArms_004
+    4300612: Chair_003
+    4300614: ChairArms_003
+    4300616: Chair_002
+    4300618: ChairArms_002
+    4300620: Chair_001
+    4300622: ChairArms_001
+    4300624: Cube_007
+    4300626: TableTop
+    4300628: TableLegs
+    4300630: Cylinder_002
+    4300632: Chair
+    4300634: ChairArms
+    4300636: BezierCurve
+    4300638: Railings_001
+    4300640: StairCylinder_001
+    4300642: Shower_003
+    4300644: Shower_002
+    4300646: Shower_001
+    4300648: RailingsFrontBar
+    4300650: StairCylinderRailings
+    4300652: Cube_010
+    4300654: Cube_009
+    4300656: Cube_008
+    4300658: Cube_006
+    4300660: ShowerBottomBox
+    4300662: ShowerBottomHandles
     7400000: Default Take
     9500000: //RootNode
   materials:
