@@ -339,6 +339,46 @@ ModelImporter:
     100662: ShowerBottomBox
     100664: ShowerBottomHandles
     100666: Plane
+    100668: EyeCover
+    100670: EyeCover_001
+    100672: EyePupil
+    100674: EyePupil_001
+    100676: PosterBoard
+    100678: PosterBoard_001
+    100680: PosterBoard_002
+    100682: PosterBoard_003
+    100684: PosterBoard_004
+    100686: PosterBoard_005
+    100688: PosterBoard_006
+    100690: PosterBoard_007
+    100692: PosterBoard_008
+    100694: PosterBoard_009
+    100696: PosterBoard_010
+    100698: PosterBoard_011
+    100700: PosterBoard_012
+    100702: PosterBoard_013
+    100704: PosterBoard_014
+    100706: PosterBoard_015
+    100708: BackRailing
+    100710: BackRailing_001
+    100712: BikeRack
+    100714: BikeRackHandle
+    100716: BikeRackTire
+    100718: Desk
+    100720: Desk_001
+    100722: LargeRoomNames
+    100724: Men_sBathroom
+    100726: RailingTable
+    100728: RailingTable_001
+    100730: RailingTable_002
+    100732: RailingTable_003
+    100734: Women_sBathroom
+    100736: PosterBoard_016
+    100738: PosterBoard_017
+    100740: PosterBoard_018
+    100742: StairCube_001
+    100744: StairCube_002
+    100746: Stairs_001
     400000: 100ADoor
     400002: 100ADoorFrame
     400004: 100BDoorA
@@ -673,6 +713,46 @@ ModelImporter:
     400662: ShowerBottomBox
     400664: ShowerBottomHandles
     400666: Plane
+    400668: EyeCover
+    400670: EyeCover_001
+    400672: EyePupil
+    400674: EyePupil_001
+    400676: PosterBoard
+    400678: PosterBoard_001
+    400680: PosterBoard_002
+    400682: PosterBoard_003
+    400684: PosterBoard_004
+    400686: PosterBoard_005
+    400688: PosterBoard_006
+    400690: PosterBoard_007
+    400692: PosterBoard_008
+    400694: PosterBoard_009
+    400696: PosterBoard_010
+    400698: PosterBoard_011
+    400700: PosterBoard_012
+    400702: PosterBoard_013
+    400704: PosterBoard_014
+    400706: PosterBoard_015
+    400708: BackRailing
+    400710: BackRailing_001
+    400712: BikeRack
+    400714: BikeRackHandle
+    400716: BikeRackTire
+    400718: Desk
+    400720: Desk_001
+    400722: LargeRoomNames
+    400724: Men_sBathroom
+    400726: RailingTable
+    400728: RailingTable_001
+    400730: RailingTable_002
+    400732: RailingTable_003
+    400734: Women_sBathroom
+    400736: PosterBoard_016
+    400738: PosterBoard_017
+    400740: PosterBoard_018
+    400742: StairCube_001
+    400744: StairCube_002
+    400746: Stairs_001
     2300000: 100ADoor
     2300002: 100ADoorFrame
     2300004: 100BDoorA
@@ -1006,6 +1086,46 @@ ModelImporter:
     2300660: ShowerBottomBox
     2300662: ShowerBottomHandles
     2300664: Plane
+    2300666: EyeCover
+    2300668: EyeCover_001
+    2300670: EyePupil
+    2300672: EyePupil_001
+    2300674: PosterBoard
+    2300676: PosterBoard_001
+    2300678: PosterBoard_002
+    2300680: PosterBoard_003
+    2300682: PosterBoard_004
+    2300684: PosterBoard_005
+    2300686: PosterBoard_006
+    2300688: PosterBoard_007
+    2300690: PosterBoard_008
+    2300692: PosterBoard_009
+    2300694: PosterBoard_010
+    2300696: PosterBoard_011
+    2300698: PosterBoard_012
+    2300700: PosterBoard_013
+    2300702: PosterBoard_014
+    2300704: PosterBoard_015
+    2300706: BackRailing
+    2300708: BackRailing_001
+    2300710: BikeRack
+    2300712: BikeRackHandle
+    2300714: BikeRackTire
+    2300716: Desk
+    2300718: Desk_001
+    2300720: LargeRoomNames
+    2300722: Men_sBathroom
+    2300724: RailingTable
+    2300726: RailingTable_001
+    2300728: RailingTable_002
+    2300730: RailingTable_003
+    2300732: Women_sBathroom
+    2300734: PosterBoard_016
+    2300736: PosterBoard_017
+    2300738: PosterBoard_018
+    2300740: StairCube_001
+    2300742: StairCube_002
+    2300744: Stairs_001
     3300000: 100ADoor
     3300002: 100ADoorFrame
     3300004: 100BDoorA
@@ -1339,6 +1459,46 @@ ModelImporter:
     3300660: ShowerBottomBox
     3300662: ShowerBottomHandles
     3300664: Plane
+    3300666: EyeCover
+    3300668: EyeCover_001
+    3300670: EyePupil
+    3300672: EyePupil_001
+    3300674: PosterBoard
+    3300676: PosterBoard_001
+    3300678: PosterBoard_002
+    3300680: PosterBoard_003
+    3300682: PosterBoard_004
+    3300684: PosterBoard_005
+    3300686: PosterBoard_006
+    3300688: PosterBoard_007
+    3300690: PosterBoard_008
+    3300692: PosterBoard_009
+    3300694: PosterBoard_010
+    3300696: PosterBoard_011
+    3300698: PosterBoard_012
+    3300700: PosterBoard_013
+    3300702: PosterBoard_014
+    3300704: PosterBoard_015
+    3300706: BackRailing
+    3300708: BackRailing_001
+    3300710: BikeRack
+    3300712: BikeRackHandle
+    3300714: BikeRackTire
+    3300716: Desk
+    3300718: Desk_001
+    3300720: LargeRoomNames
+    3300722: Men_sBathroom
+    3300724: RailingTable
+    3300726: RailingTable_001
+    3300728: RailingTable_002
+    3300730: RailingTable_003
+    3300732: Women_sBathroom
+    3300734: PosterBoard_016
+    3300736: PosterBoard_017
+    3300738: PosterBoard_018
+    3300740: StairCube_001
+    3300742: StairCube_002
+    3300744: Stairs_001
     4300000: Walls_005
     4300002: Walls_004
     4300004: Walls_003
@@ -1672,6 +1832,46 @@ ModelImporter:
     4300660: ShowerBottomBox
     4300662: ShowerBottomHandles
     4300664: Plane
+    4300666: EyeCover_001
+    4300668: EyePupil_001
+    4300670: PosterBoard_012
+    4300672: PosterBoard_011
+    4300674: PosterBoard_010
+    4300676: PosterBoard_009
+    4300678: PosterBoard_008
+    4300680: PosterBoard_007
+    4300682: PosterBoard_006
+    4300684: PosterBoard_005
+    4300686: PosterBoard_004
+    4300688: PosterBoard_003
+    4300690: PosterBoard_002
+    4300692: PosterBoard_001
+    4300694: PosterBoard
+    4300696: EyeCover
+    4300698: EyePupil
+    4300700: PosterBoard_014
+    4300702: PosterBoard_013
+    4300704: PosterBoard_015
+    4300706: BackRailing_001
+    4300708: BackRailing
+    4300710: LargeRoomNames
+    4300712: BikeRackHandle
+    4300714: BikeRack
+    4300716: BikeRackTire
+    4300718: RailingTable_003
+    4300720: RailingTable_002
+    4300722: RailingTable_001
+    4300724: RailingTable
+    4300726: Desk_001
+    4300728: Desk
+    4300730: Men_sBathroom
+    4300732: Women_sBathroom
+    4300734: PosterBoard_018
+    4300736: PosterBoard_017
+    4300738: PosterBoard_016
+    4300740: StairCube_002
+    4300742: StairCube_001
+    4300744: Stairs_001
     7400000: Default Take
     9500000: //RootNode
   materials:
