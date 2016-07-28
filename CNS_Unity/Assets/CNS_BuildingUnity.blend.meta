@@ -422,6 +422,12 @@ ModelImporter:
     100828: Poster_019
     100830: Poster_020
     100832: Poster_021
+    100834: Plane_002
+    100836: Plane_003
+    100838: FloorGreenHallLeft
+    100840: FloorMainWhite
+    100842: FloorWhiteHallInner
+    100844: FloorWhiteHallOuter
     400000: 100ADoor
     400002: 100ADoorFrame
     400004: 100BDoorA
@@ -839,6 +845,12 @@ ModelImporter:
     400828: Poster_019
     400830: Poster_020
     400832: Poster_021
+    400834: Plane_002
+    400836: Plane_003
+    400838: FloorGreenHallLeft
+    400840: FloorMainWhite
+    400842: FloorWhiteHallInner
+    400844: FloorWhiteHallOuter
     2300000: 100ADoor
     2300002: 100ADoorFrame
     2300004: 100BDoorA
@@ -1255,6 +1267,12 @@ ModelImporter:
     2300826: Poster_019
     2300828: Poster_020
     2300830: Poster_021
+    2300832: Plane_002
+    2300834: Plane_003
+    2300836: FloorGreenHallLeft
+    2300838: FloorMainWhite
+    2300840: FloorWhiteHallInner
+    2300842: FloorWhiteHallOuter
     3300000: 100ADoor
     3300002: 100ADoorFrame
     3300004: 100BDoorA
@@ -1671,6 +1689,12 @@ ModelImporter:
     3300826: Poster_019
     3300828: Poster_020
     3300830: Poster_021
+    3300832: Plane_002
+    3300834: Plane_003
+    3300836: FloorGreenHallLeft
+    3300838: FloorMainWhite
+    3300840: FloorWhiteHallInner
+    3300842: FloorWhiteHallOuter
     4300000: Walls_005
     4300002: Walls_004
     4300004: Walls_003
@@ -2087,6 +2111,12 @@ ModelImporter:
     4300826: Poster_020
     4300828: Poster_019
     4300830: Poster_018
+    4300832: Plane_002
+    4300834: Plane_003
+    4300836: FloorMainWhite
+    4300838: FloorGreenHallLeft
+    4300840: FloorWhiteHallInner
+    4300842: FloorWhiteHallOuter
     6400000: 100ADoor
     6400002: 100ADoorFrame
     6400004: 100BDoorA
@@ -2446,6 +2476,41 @@ ModelImporter:
     6400712: Poster
     6400714: Poster_001
     6400716: Poster_002
+    6400718: 110Door
+    6400720: 110Door_Frame
+    6400722: 110Hinges
+    6400724: 110InnerDoorHandle
+    6400726: 110OuterDoorHandle
+    6400728: CeilingVentHoles_003
+    6400730: Plane_002
+    6400732: Poster_003
+    6400734: Poster_004
+    6400736: Poster_005
+    6400738: Poster_006
+    6400740: Poster_007
+    6400742: Poster_008
+    6400744: Poster_009
+    6400746: Poster_010
+    6400748: Poster_011
+    6400750: Poster_012
+    6400752: Poster_013
+    6400754: Poster_014
+    6400756: Poster_015
+    6400758: Poster_016
+    6400760: Poster_017
+    6400762: Poster_018
+    6400764: Poster_019
+    6400766: Poster_020
+    6400768: Poster_021
+    6400770: PosterBoard_021
+    6400772: PosterBoard_022
+    6400774: PosterBoard_023
+    6400776: PosterBoard_024
+    6400778: Plane_003
+    6400780: FloorGreenHallLeft
+    6400782: FloorMainWhite
+    6400784: FloorWhiteHallInner
+    6400786: FloorWhiteHallOuter
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -2474,7 +2539,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
