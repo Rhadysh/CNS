@@ -428,6 +428,28 @@ ModelImporter:
     100840: FloorMainWhite
     100842: FloorWhiteHallInner
     100844: FloorWhiteHallOuter
+    100846: WaterBottle
+    100848: WaterBottleHandle1
+    100850: WaterBottleHandle2
+    100852: WaterBottle_001
+    100854: WaterBottle_002
+    100856: WaterBottle_003
+    100858: Me
+    100860: Table
+    100862: WaterBottle_004
+    100864: WaterBottle_005
+    100866: WaterBottle_006
+    100868: WaterCube
+    100870: WaterCube_001
+    100872: WaterCube_002
+    100874: WaterCube_003
+    100876: WaterSpigot
+    100878: WaterSpigotTabs
+    100880: Cabinet
+    100882: Cabinet2
+    100884: WaterDispenser
+    100886: WaterDispenserInset
+    100888: WaterSpigot_001
     400000: 100ADoor
     400002: 100ADoorFrame
     400004: 100BDoorA
@@ -851,6 +873,28 @@ ModelImporter:
     400840: FloorMainWhite
     400842: FloorWhiteHallInner
     400844: FloorWhiteHallOuter
+    400846: WaterBottle
+    400848: WaterBottleHandle1
+    400850: WaterBottleHandle2
+    400852: WaterBottle_001
+    400854: WaterBottle_002
+    400856: WaterBottle_003
+    400858: Me
+    400860: Table
+    400862: WaterBottle_004
+    400864: WaterBottle_005
+    400866: WaterBottle_006
+    400868: WaterCube
+    400870: WaterCube_001
+    400872: WaterCube_002
+    400874: WaterCube_003
+    400876: WaterSpigot
+    400878: WaterSpigotTabs
+    400880: Cabinet
+    400882: Cabinet2
+    400884: WaterDispenser
+    400886: WaterDispenserInset
+    400888: WaterSpigot_001
     2300000: 100ADoor
     2300002: 100ADoorFrame
     2300004: 100BDoorA
@@ -1273,6 +1317,28 @@ ModelImporter:
     2300838: FloorMainWhite
     2300840: FloorWhiteHallInner
     2300842: FloorWhiteHallOuter
+    2300844: WaterBottle
+    2300846: WaterBottleHandle1
+    2300848: WaterBottleHandle2
+    2300850: WaterBottle_001
+    2300852: WaterBottle_002
+    2300854: WaterBottle_003
+    2300856: Me
+    2300858: Table
+    2300860: WaterBottle_004
+    2300862: WaterBottle_005
+    2300864: WaterBottle_006
+    2300866: WaterCube
+    2300868: WaterCube_001
+    2300870: WaterCube_002
+    2300872: WaterCube_003
+    2300874: WaterSpigot
+    2300876: WaterSpigotTabs
+    2300878: Cabinet
+    2300880: Cabinet2
+    2300882: WaterDispenser
+    2300884: WaterDispenserInset
+    2300886: WaterSpigot_001
     3300000: 100ADoor
     3300002: 100ADoorFrame
     3300004: 100BDoorA
@@ -1695,6 +1761,28 @@ ModelImporter:
     3300838: FloorMainWhite
     3300840: FloorWhiteHallInner
     3300842: FloorWhiteHallOuter
+    3300844: WaterBottle
+    3300846: WaterBottleHandle1
+    3300848: WaterBottleHandle2
+    3300850: WaterBottle_001
+    3300852: WaterBottle_002
+    3300854: WaterBottle_003
+    3300856: Me
+    3300858: Table
+    3300860: WaterBottle_004
+    3300862: WaterBottle_005
+    3300864: WaterBottle_006
+    3300866: WaterCube
+    3300868: WaterCube_001
+    3300870: WaterCube_002
+    3300872: WaterCube_003
+    3300874: WaterSpigot
+    3300876: WaterSpigotTabs
+    3300878: Cabinet
+    3300880: Cabinet2
+    3300882: WaterDispenser
+    3300884: WaterDispenserInset
+    3300886: WaterSpigot_001
     4300000: Walls_005
     4300002: Walls_004
     4300004: Walls_003
@@ -2117,6 +2205,28 @@ ModelImporter:
     4300838: FloorGreenHallLeft
     4300840: FloorWhiteHallInner
     4300842: FloorWhiteHallOuter
+    4300844: WaterBottleHandle1
+    4300846: WaterBottle
+    4300848: WaterBottleHandle2
+    4300850: WaterBottle_002
+    4300852: WaterBottle_001
+    4300854: WaterBottle_003
+    4300856: Me
+    4300858: Table
+    4300860: WaterBottle_006
+    4300862: WaterBottle_004
+    4300864: WaterSpigotTabs
+    4300866: WaterSpigot
+    4300868: WaterCube_003
+    4300870: WaterCube_001
+    4300872: WaterBottle_005
+    4300874: WaterCube
+    4300876: WaterCube_002
+    4300878: Cabinet2
+    4300880: Cabinet
+    4300882: WaterDispenserInset
+    4300884: WaterSpigot_001
+    4300886: WaterDispenser
     6400000: 100ADoor
     6400002: 100ADoorFrame
     6400004: 100BDoorA
@@ -2511,6 +2621,34 @@ ModelImporter:
     6400782: FloorMainWhite
     6400784: FloorWhiteHallInner
     6400786: FloorWhiteHallOuter
+    6400788: Cube_001
+    6400790: Cube_003
+    6400792: WaterBottle
+    6400794: WaterBottleHandle1
+    6400796: WaterBottleHandle2
+    6400798: Cube_004
+    6400800: Cube_005
+    6400802: Cylinder_001
+    6400804: Cylinder_002
+    6400806: WaterBottle_001
+    6400808: WaterBottle_002
+    6400810: WaterBottle_003
+    6400812: Me
+    6400814: Table
+    6400816: WaterBottle_004
+    6400818: WaterBottle_005
+    6400820: WaterBottle_006
+    6400822: WaterCube
+    6400824: WaterCube_001
+    6400826: WaterCube_002
+    6400828: WaterCube_003
+    6400830: WaterSpigot
+    6400832: WaterSpigotTabs
+    6400834: Cabinet
+    6400836: Cabinet2
+    6400838: WaterDispenser
+    6400840: WaterDispenserInset
+    6400842: WaterSpigot_001
     7400000: Default Take
     9500000: //RootNode
   materials:
